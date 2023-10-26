@@ -2,7 +2,7 @@
 
 This is a simple Python calculator application. This project provides a basic graphical user interface for performing arithmetic calculations.
 
-<img src="Calculator.png" alt="Calculator Screenshot" width="400">
+<img src="Calculator.PNG" alt="Calculator Screenshot" width="400">
 
 ## Features
 - Supports addition, subtraction, multiplication, and division.
